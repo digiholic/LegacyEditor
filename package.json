@@ -1,0 +1,22 @@
+{
+  "name": "legacyeditor",
+  "version": "0.0.1",
+  "description": "Character Builder for Project TUSSLE",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digiholic/LegacyEditor.git"
+  },
+  "author": "digiholic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digiholic/LegacyEditor/issues"
+  },
+  "homepage": "https://github.com/digiholic/LegacyEditor#readme",
+  "dependencies": {
+    "electron": "^8.2.0"
+  }
+}
